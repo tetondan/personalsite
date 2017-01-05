@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+.brand-logo{
+  margin-left: 2vw;
+}
+
+h1{
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.sidebar{
+  height: 100vh;
+  border-right: 1px solid black;
+}
+
+.icons {
+  margin-left: 40%;
+  margin-top: 5vh;
+}
+
+.icons a{
+  margin: 0 2vw 0 2vw;
+}
