@@ -1,26 +1,14 @@
 body {
-  margin: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
-.brand-logo{
-  margin-left: 2vw;
+main {
+  flex: 1 0 auto;
 }
 
-h1{
+.name-header{
   margin-bottom: 0;
   margin-left: 0;
-}
-
-.sidebar{
-  height: 100vh;
-  border-right: 1px solid black;
-}
-
-.icons {
-  margin-left: 40%;
-  margin-top: 5vh;
-}
-
-.icons a{
-  margin: 0 2vw 0 2vw;
 }

@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.brand-logo{
+  margin-left: 2vw;
+}
+
+.expander {
+  cursor: pointer;
+}
